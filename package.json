@@ -1,0 +1,26 @@
+{
+  "name": "realtimeassignment",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nziza-Prince/realtimeDataAssignemt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nziza-Prince/realtimeDataAssignemt/issues"
+  },
+  "homepage": "https://github.com/Nziza-Prince/realtimeDataAssignemt#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mqtt": "^5.10.4",
+    "sqlite3": "^5.1.7"
+  }
+}
