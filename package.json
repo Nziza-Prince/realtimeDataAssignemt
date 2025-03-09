@@ -19,8 +19,10 @@
   "homepage": "https://github.com/Nziza-Prince/realtimeDataAssignemt#readme",
   "description": "",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "express": "^4.21.2",
     "mqtt": "^5.10.4",
+    "nodemon": "^3.1.9",
     "sqlite3": "^5.1.7"
   }
 }
